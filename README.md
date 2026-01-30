@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as Back-End developer<br>🤝 I’m looking for help with Professional Back-End<br>🌱 I’m currently learning AI intergrations, chatbots, and deep Python
+🔭 I’m currently working as Full-stack developer<br>🤝 I’m looking for interesting ideas to create!<br>🌱 I’m currently learning AI intergrations, chatbots, microservices
 
 
 ## 🌐 Socials:
